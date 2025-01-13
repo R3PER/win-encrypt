@@ -1,7 +1,5 @@
 # File Encryptor
 
-A Windows-based file encryption and decryption program with a graphical interface, written in Go. The program utilizes advanced cryptographic algorithms (AES) to secure user data.
-
 ## 📄 Description
 Win Encryptor is a file encryption and decryption program with a graphical interface, written in the Go programming language. The program utilizes advanced cryptographic algorithms (AES) to secure user data.
 
