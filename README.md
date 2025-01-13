@@ -80,7 +80,7 @@ Win Encryptor is a file encryption and decryption program with a graphical inter
 * Secure data deletion
 
 ## 📜 License
-GNU License
+GPL License
 
 ## 👤 Author
 **R3PER**
